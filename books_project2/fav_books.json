@@ -7,7 +7,7 @@
 
 },
 {
-    "Author": "Wilkie Collins", "John Sutherland",
+    "Author": ["Wilkie Collins", "John Sutherland"],
     "Title": "The Woman in White (Oxford World's Classics)",
     "Publisher": "Oxford University Press",
     "Publish_Date": "05/15/2008",
@@ -15,7 +15,7 @@
 
 },
 { 
-    "Author": "Allama Muhammad Iqbal", "Zafar Ibrahim (Compiler)", "Iqbal Ahmed (Designer)",
+    "Author": ["Allama Muhammad Iqbal", "Zafar Ibrahim (Compiler)", "Iqbal Ahmed (Designer)"],
     "Title": "Bang e Dara (Urdu Edition)",
     "Publisher": "CreateSpace Independent Publishing Platform",
     "Publish_Date": "04/26/2018",
