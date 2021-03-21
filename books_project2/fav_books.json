@@ -1,0 +1,23 @@
+[{
+    "Author": "J.K. Rowling",
+    "Title": "Harry Potter and the Philopher's Stone",
+    "Publisher": "Bloomsbury",
+    "Publish_Date": "06/26/1997",
+    "ISBN-10": "0747532699"
+
+},
+{
+    "Author": "Wilkie Collins, John Sutherland",
+    "Title": "The Woman in White (Oxford World's Classics)",
+    "Publisher": "Oxford University Press",
+    "Publish_Date": "05/15/2008",
+    "ISBN-10": "0199535639"
+
+},
+{ 
+    "Author": "Allama Muhammad Iqbal, Zafar Ibrahim (Compiler), Iqbal Ahmed (Designer)",
+    "Title": "Bang e Dara (Urdu Edition)",
+    "Publisher": "CreateSpace Independent Publishing Platform",
+    "Publish_Date": "04/26/2018",
+    "ISBN-10": "1717450199"
+}]
